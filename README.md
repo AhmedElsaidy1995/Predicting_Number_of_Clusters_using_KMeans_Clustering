@@ -1,4 +1,4 @@
-# Predicting_Number_of_Clusters_using_KMeans_Clustering
+# Predicting Number of Clusters using KMeans Clustering
  Predicting the optimum Number of Clusters using KMeans
 # Dataset
   - Iris Dataset
